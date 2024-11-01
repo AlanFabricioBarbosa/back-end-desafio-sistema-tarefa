@@ -28,7 +28,7 @@ Este projeto é um backend para gerenciar tarefas, fornecendo endpoints para cri
 
 1. Clone o repositório:
    ```bash
-   git clone <https://github.com/AlanFabricioBarbosa/back-end-desafio-sistema-tarefa.git>
+   git clone https://github.com/AlanFabricioBarbosa/back-end-desafio-sistema-tarefa.git
    ```
 
 2. Instale as dependências:
