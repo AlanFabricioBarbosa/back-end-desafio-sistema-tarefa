@@ -5,9 +5,9 @@ Este documento descreve a configuração e o funcionamento da API backend do sis
 ---
 
 ## Sumário
-- [Introdução](#introducao)
-- [Instalação](#instalacao)
-- [Configuração do Ambiente](#configuracao-do-ambiente)
+- [Introdução](#introdução)
+- [Instalação](#instalação)
+- [Configuração do Ambiente](#configuração-do-ambiente)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Endpoints](#endpoints)
   - [GET /api/tasks](#get-apitasks)
